@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../images/download.jpg";
+import Image from "../images/image 12.png";
 import Star from "../images/star.png";
  
 function Card() {
