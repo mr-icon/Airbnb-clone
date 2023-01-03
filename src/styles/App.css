@@ -55,7 +55,7 @@ section{
 .card-list{
   display: flex;
   flex-wrap: nowrap;
-  gap: 20px;
+  gap: 40px;
   overflow-x: auto;
 }
 .card-badge{
@@ -68,11 +68,12 @@ section{
   font-weight: bold;
 }
 .card-img{
-  width: 100%;
+  width: 110%;
   border-radius: 9px;
   height: 300px;
 }
 .card-stats{
+  margin-top: 10px;
   display: flex;
   align-items: center;
 }
